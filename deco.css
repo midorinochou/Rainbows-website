@@ -1,0 +1,80 @@
+body {
+	background-image: url(http://science-all.com/images/sky/sky-03.jpg);
+	background-repeat: no-repeat;
+}
+h1 {
+	text-align: center;
+	background-color: #4dffb8;
+	height: 100px;
+	font-family: cursive;
+	border: 3px solid #00997a;
+}
+a {
+	text-decoration: none;
+	color: #00997a;
+
+}
+.image {
+	margin-center; 
+}
+img {
+	border: 2px solid black;
+}
+#explanation {
+	text-align: center;
+}
+div p span {
+	background-color: lightgreen;
+	font-family: Helvetica;
+	border-radius: 10px;
+	border-color: yellow;
+	border-width: 2px;
+}
+#red {
+	background-color: #d13632;
+	height: 150px;
+	width: 1000px;
+	font-size: 25px;
+	font-family: Georgia;
+	border-radius: 20px;
+}
+#orange {
+	background-color: #e69333;
+	height: 150px;
+	width: 900px;
+	font-size: 25px;
+	font-family: Georgia;
+	border-radius: 20px;
+}
+#yellow {
+	background-color: yellow;
+	height: 150px;
+	width: 800px;
+	font-size: 25px;
+	font-family: Georgia;
+	border-radius: 20px;
+}
+#green {
+	background-color: #479e1b;
+	height: 150px;
+	width: 700px;
+	font-size: 25px;
+	font-family: Georgia;
+	border-radius: 20px;
+}
+#blue {
+	background-color: #1d829e;
+	height: 150px;
+	width: 600px;
+	font-size: 25px;
+	font-family: Georgia;
+	border-radius: 20px;
+}
+#purple {
+	background-color: #8a2aa7;
+	height: 150px;
+	width: 500px;
+	font-size: 25px;
+	font-family: Georgia;
+	border-radius: 20px;
+}
